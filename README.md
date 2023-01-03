@@ -9,7 +9,7 @@ I'm the CTO of [Codeby, a Keyrus Company](https://codeby.global).
 ## 🌐 Socials:
 <a target="_blank" href="https://instagram.com/lucasyamamoto1997"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a target="_blank" href="https://linkedin.com/in/lucasayb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://reddit.com/user/lucasayb"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
+<a target="_blank" href="https://reddit.com/user/lucasyamamoto"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
 <a target="_blank" href="https://stackoverflow.com/users/10078162"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a> 
 <a target="_blank" href="https://twitter.com/lucasayb"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a>
 
