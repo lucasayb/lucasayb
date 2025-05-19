@@ -1,6 +1,4 @@
 # Hey, I'm Lucas!
-I'm the CTO of [Codeby, a Keyrus Company](https://codeby.global).
-
 ## 💫 About Me:
 🌱 I’m currently learning AI and machine learning<br />
 💬 Ask me about Ruby On Rails<br />
